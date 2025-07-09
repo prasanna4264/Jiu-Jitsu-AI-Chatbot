@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Secrets and keys
+.env
+*.env
+
+# Compiled files and cache
+*.so
+*.dll
+*.db
+.cache/
+*.sqlite3
+
+# LangChain or FAISS artifacts
+index.faiss
+*.json
+
+# Streamlit
+.streamlit/
+
+# Output folders
+__output__/
+outputs/
