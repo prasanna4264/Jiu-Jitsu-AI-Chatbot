@@ -93,14 +93,6 @@ Jiu-Jitsu-AI-Chatbot/
 
 ---
 
-## Roadmap
-
-- [ ] Add optional **Streamlit UI**  
-- [ ] Expand knowledge base with structured grappling manuals  
-- [ ] Integrate clip search using pre-tagged metadata (no YouTube scraping)
-
----
-
 ## 👤 Author
 
 **Prasanna Adhikari**  
