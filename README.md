@@ -1,4 +1,4 @@
-# 🥋 Jiu-Jitsu Chatbot
+# Jiu-Jitsu Chatbot
 
 **Jiu-Jitsu Chatbot** is a lightweight, domain-specific AI assistant built to answer questions exclusively about Brazilian Jiu-Jitsu (BJJ). Whether you're a white belt or a seasoned black belt, this tool delivers fast, accurate, and grappling-focused responses—no fluff, no off-topic tangents.
 
@@ -98,12 +98,6 @@ Jiu-Jitsu-AI-Chatbot/
 - [ ] Add optional **Streamlit UI**  
 - [ ] Expand knowledge base with structured grappling manuals  
 - [ ] Integrate clip search using pre-tagged metadata (no YouTube scraping)
-
----
-
-## 📜 License
-
-**MIT License** — free to fork, extend, or integrate into your own martial arts platform.
 
 ---
 
