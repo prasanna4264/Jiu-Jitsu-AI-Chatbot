@@ -12,7 +12,7 @@ Built with **Python**, **LangChain**, and **OpenAI’s API**, it uses a curated 
 - **Lightweight & Efficient**: Minimal token usage for cost-effective deployment  
 - **Offline Knowledge Base**: Supports structured text and PDF ingestion  
 - **Custom Prompt Engineering**: Reduces hallucinations and keeps answers on-topic  
-- **Simple CLI Interface** (Optional: Streamlit UI coming soon)
+- **Simple CLI Interface** 
 
 ---
 
